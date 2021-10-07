@@ -1,5 +1,8 @@
 ## Olá, eu sou eu (grande parte disso pode ser verdade ou não, exceto a parte que é mentira ou a parte inventada)
 
+<img height="180em" alt="RBert-Hi" src="https://media.giphy.com/media/12RmDbMsn7LoY0/giphy.gif">
+
+
 <div>
   <a href="https://github.com/rbertizini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbertizini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
