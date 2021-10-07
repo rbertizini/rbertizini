@@ -9,7 +9,6 @@
 <div style="display: inline_block">
   <br>
   <h3>Principais</h3>
-  <hr>
   <img align="center" alt="RBert-Abap" height="30" width="70" src="https://i.imgur.com/l2y92II.png">
   <img align="center" alt="RBert-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="RBert-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,7 +18,6 @@
   
   <br>
   <h3>Estudando</h3>
-  <hr>
   <img align="center" alt="RBert-Angular" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="RBert-Dart" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="RBert-Vue" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
@@ -27,7 +25,6 @@
   
   <br>
   <h3>Banco de dados</h3>
-  <hr>
   <img align="center" alt="RBert-MySQL" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="RBert-Postgresql" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="RBert-SQLServer" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
@@ -36,17 +33,13 @@
   
   <br>
   <h3>Aposentadas</h3>
-  <hr>
   Ficaram de fora algumas linguagens aposentadas, mas bem legais: Delphi, VisualBasic, C, C++ e outras
 </div>
-  
-  ##
  
-<div> 
+<div>
+  <h3>Contato</h3>
   <a href = "mailto:rbertizini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renato-bertizini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/rbertizini/rbertizini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
