@@ -16,8 +16,7 @@
   <img align="center" alt="RBert-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RBert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RBert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RBert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RBert-Hana" height="30" src="https://uploads-ssl.webflow.com/5eab0f7648eb6ee7a8a78474/5ed155eb879a56e23f6dc109_SAP-HANA-Logo.png">
+  <img align="center" alt="RBert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="RBert-Fiori" height="30" src="http://store-images.s-microsoft.com/image/apps.43902.9007199267160531.12082326-3d81-46a8-ab01-bf25c09b6410.7e8533fb-ee32-4956-93c8-4b9171de1250">
   
   <br>
@@ -29,6 +28,7 @@
   
   <br>
   <h4>Banco de dados</h4>
+  <img align="center" alt="RBert-Hana" height="30" src="https://uploads-ssl.webflow.com/5eab0f7648eb6ee7a8a78474/5ed155eb879a56e23f6dc109_SAP-HANA-Logo.png">
   <img align="center" alt="RBert-MySQL" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="RBert-Postgresql" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="RBert-SQLServer" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
