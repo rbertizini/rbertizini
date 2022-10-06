@@ -4,8 +4,8 @@
 
 
 <div>
-  <a href="https://github.com/rbertizini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbertizini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/rbertizini">  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbertizini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 </div>
 
 <div style="display: inline_block">
