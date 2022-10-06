@@ -2,7 +2,10 @@
 
 <img height="180em" alt="RBert-Hi" src="https://media.giphy.com/media/12RmDbMsn7LoY0/giphy.gif">
 
-![Rbertizini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbertizini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<div>
+  <a href="https://github.com/rbertizini">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbertizini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display: inline_block">
   <br>
